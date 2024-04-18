@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_music.png</file>
+        <file>steering-wheel.ico</file>
+        <file>icon_music_pressed.png</file>
+    </qresource>
+</RCC>
