@@ -33,7 +33,7 @@
 
 ### 🛠️ Setup Instructions
 
-1. **Clone this repository** or [Download ZIP](https://github.com/your-repo-link/archive/refs/heads/main.zip)
+1. **Clone this repository** or [Download ZIP]([https://github.com/your-repo-link/archive/refs/heads/main.zip](https://github.com/AlinaShcherbak1/EnglishEducator/archive/refs/heads/main.zip))
 2. **Open** the `Education.pro` file in **Qt Creator**
 3. **Build the project** using `qmake` and your compiler (MinGW 64-bit)
 4. **Start XAMPP**, ensure MySQL is running
